@@ -6,6 +6,7 @@ O projeto SobControle é uma automação residencial manuseada através de contr
 A ideia para o desenvolvimento do SobControle nasceu como forma de projeto final para a disciplina de Física Experimental 3, onde o requisito era a utilização de um microcontrolador ATmega328p (Arduino) no circuito.
 
 ## Vídeo demonstrativo
+### Play no vídeo
 [<img src="https://user-images.githubusercontent.com/88794851/186820985-e65b47f6-cdae-4670-93f1-6934862189bb.png" width="25%">](https://youtube.com/shorts/i-viBI48iE0 "Projeto SobControle")
 
 ## QRcode do site SobControle
